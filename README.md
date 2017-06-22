@@ -17,5 +17,9 @@ The client script contains code for connecting with server and sending messages.
 
 ### How to run
 
-1. Clone the repo or download as zip.
+1. Clone the repo.
+2. Navigate to the python-chat-room folder by typing `cd python-chat-room` in terminal.
+3. Run `./server.py` to start a server instance.
+4. Run `./client.py localhost 9009` from multiple terminals to emulate multiple clients`
+5. Send messages between clients.
 
